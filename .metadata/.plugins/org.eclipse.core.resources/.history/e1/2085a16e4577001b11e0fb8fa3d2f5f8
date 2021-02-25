@@ -6,14 +6,8 @@ public class Coche {
 	private String modelo;
 	private String marca;
 	private int km;
-	private String AtributoNuevo;
 	
-	public String getAtributoNuevo() {
-		return AtributoNuevo;
-	}
-	public void setAtributoNuevo(String atributoNuevo) {
-		AtributoNuevo = atributoNuevo;
-	}
+	
 	public int getKm() {
 		return km;
 	}
